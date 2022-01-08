@@ -6,8 +6,7 @@ class MyDrawer extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final imageUrl =
-        "https://www.google.com/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1336793336632516609%2FVxXVwrc8_400x400.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2Fshumailaishrat2&tbnid=4NPuLJQljjsV4M&vet=12ahUKEwjp1sbDsZr1AhWtxHMBHS7BCZoQMygGegQIARAs..i&docid=iuy6fHsTu9rxWM&w=400&h=400&itg=1&q=shumaila%20sami&ved=2ahUKEwjp1sbDsZr1AhWtxHMBHS7BCZoQMygGegQIARAs";
+    final imageUrl = 'http://tineye.com/images/widgets/mona.jpg';
     return Drawer(
       child: Container(
         color: Colors.deepPurple,
@@ -22,6 +21,8 @@ class MyDrawer extends StatelessWidget {
                 accountEmail: Text("shumaila90.sami@gmail.com"),
                 //currentAccountPicture: Image.network(imageUrl),
                 currentAccountPicture: CircleAvatar(
+                  //radius: 50.0,
+                  //backgroundColor: const Color(0xFF778899),
                   backgroundImage: NetworkImage(imageUrl),
                 ),
               ),
