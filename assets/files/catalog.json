@@ -1,0 +1,74 @@
+{
+"products": [   
+
+    {
+        "id": 1 ,
+        "name": "iPhone 12 pro",
+        "desc": "Apple iPhone 12th generation",
+        "price": 399,
+        "color": "#33505a",
+        "image": "http://tineye.com/images/widgets/mona.jpg"
+    },
+    {
+        "id": 2 ,
+        "name": "Pixel 5",
+        "desc": "Google pixel phone 5th generation",
+        "price": 499,
+        "color": "#00ac51",
+        "image": "http://tineye.com/images/widgets/mona.jpg"
+    },
+
+    {
+        "id": 3 ,
+        "name": "M1 Macbook Air",
+        "desc": "Apple macbook air with apple silocon",
+        "price": 599,
+        "color": "#33505a",
+        "image": "http://tineye.com/images/widgets/mona.jpg"
+    },
+
+    {
+        "id": 4 ,
+        "name": "Apple Aipods",
+        "desc": "Apple Aipods pro 1st generation ",
+        "price": 699,
+        "color": "#7ffd4",
+        "image": "http://tineye.com/images/widgets/mona.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "samsung Galaxy",
+        "desc": "Samsung phone 12th generation",
+        "price": 799,
+        "color": "#800000",
+        "image": "http://tineye.com/images/widgets/mona.jpg"
+    },
+
+    {
+        "id": 6,
+        "name": "Motorola",
+        "desc": "Motorola Phone 12th generation",
+        "price": 899,
+        "color": "#ff00ff",
+        "image": "http://tineye.com/images/widgets/mona.jpg"
+    },
+
+    {
+        "id": 7,
+        "name": "Mi phone",
+        "desc": "Mi Phone 12th generation",
+        "price": 999,
+        "color": "#ffc0cb",
+        "image": "http://tineye.com/images/widgets/mona.jpg"
+    },
+    {
+        "id": 8 ,
+        "name": "Asus Phone",
+        "desc": "Asus Phone 12th generation",
+        "price": 1099,
+        "color": "#ffff00",
+        "image": "http://tineye.com/images/widgets/mona.jpg"
+    }
+]
+}
